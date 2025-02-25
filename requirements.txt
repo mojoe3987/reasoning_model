@@ -1,0 +1,6 @@
+huggingface-hub
+transformers
+torch
+python-dotenv
+flask
+fireworks-ai 
