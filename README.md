@@ -1,6 +1,6 @@
 # Deepseek Code Assistant
 
-A web-based interface for interacting with the Deepseek Code Assistant AI model. This application provides a chat-like interface for coding-related questions and answers.
+A web-based interface for interacting with the Deepseek Assistant AI model. This application provides a chat-like interface for coding-related questions and answers.
 
 ## Features
 - Real-time streaming responses
